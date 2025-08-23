@@ -1,4 +1,4 @@
-package com.example.expensetracker;
+package com.example.expensetracker.MainActivty.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,6 +9,12 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.example.expensetracker.AddingExpensesActvity;
+import com.example.expensetracker.DeletingExpensesActivity;
+import com.example.expensetracker.R;
+import com.example.expensetracker.ShowingExpensesActivity;
+import com.example.expensetracker.ShowingTotalExpenses;
 
 public class MainActivity extends AppCompatActivity {
  Button btnAddExpense, btnDeleteExpense, btnShowExpenses, btnShowResults;

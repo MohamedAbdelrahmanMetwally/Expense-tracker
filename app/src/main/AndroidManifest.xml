@@ -28,7 +28,7 @@
             android:name=".AddingExpensesActvity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".MainActivty.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

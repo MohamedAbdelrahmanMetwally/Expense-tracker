@@ -16,7 +16,10 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import java.text.ParseException;
+import com.example.expensetracker.core.database.Expense;
+import com.example.expensetracker.core.database.ExpenseDao;
+import com.example.expensetracker.core.database.ExpensesDatabase;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;

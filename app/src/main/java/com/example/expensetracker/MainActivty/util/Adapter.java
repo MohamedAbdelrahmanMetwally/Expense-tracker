@@ -1,4 +1,4 @@
-package com.example.expensetracker;
+package com.example.expensetracker.MainActivty.util;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,6 +8,9 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.expensetracker.R;
+import com.example.expensetracker.core.database.Expense;
 
 import java.text.SimpleDateFormat;
 import java.util.List;

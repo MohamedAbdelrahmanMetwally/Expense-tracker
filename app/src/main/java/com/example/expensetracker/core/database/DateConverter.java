@@ -1,4 +1,4 @@
-package com.example.expensetracker;
+package com.example.expensetracker.core.database;
 import androidx.room.TypeConverter;
 import java.util.Date;
 public class DateConverter {

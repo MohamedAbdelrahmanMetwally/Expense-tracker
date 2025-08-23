@@ -32,6 +32,7 @@ android {
 }
 
 dependencies {
+    implementation("com.github.PhilJay:MPAndroidChart:v3.1.0")
     // ViewModel
     implementation("androidx.lifecycle:lifecycle-viewmodel:2.7.0")
 

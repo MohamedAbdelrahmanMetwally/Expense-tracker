@@ -11,6 +11,11 @@ import androidx.core.view.WindowInsetsCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.expensetracker.MainActivty.util.Adapter;
+import com.example.expensetracker.core.database.Expense;
+import com.example.expensetracker.core.database.ExpenseDao;
+import com.example.expensetracker.core.database.ExpensesDatabase;
+
 import java.util.List;
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;

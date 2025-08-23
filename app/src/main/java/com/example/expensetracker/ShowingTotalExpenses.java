@@ -13,6 +13,10 @@ import androidx.core.view.WindowInsetsCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.expensetracker.core.database.Expense;
+import com.example.expensetracker.core.database.ExpenseDao;
+import com.example.expensetracker.core.database.ExpensesDatabase;
+
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;

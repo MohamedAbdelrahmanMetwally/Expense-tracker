@@ -1,4 +1,4 @@
-package com.example.expensetracker;
+package com.example.expensetracker.core.database;
 
 import android.content.Context;
 
