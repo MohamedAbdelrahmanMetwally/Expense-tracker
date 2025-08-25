@@ -13,22 +13,13 @@
         android:theme="@style/Theme.ExpenseTracker"
         tools:targetApi="31">
         <activity
-            android:name=".ShowingPieChart"
+            android:name=".Main.ui.StatistcsActivity"
             android:exported="false" />
         <activity
-            android:name=".ShowingTotalExpenses"
+            android:name=".Main.ui.AddingExpensesActvity"
             android:exported="false" />
         <activity
-            android:name=".ShowingExpensesActivity"
-            android:exported="false" />
-        <activity
-            android:name=".DeletingExpensesActivity"
-            android:exported="false" />
-        <activity
-            android:name=".AddingExpensesActvity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivty.ui.MainActivity"
+            android:name=".Main.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
