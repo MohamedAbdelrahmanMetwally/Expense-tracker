@@ -28,6 +28,10 @@ Built using **Java**, **MVVM Architecture**, and **Material Design**.
 - **MPAndroidChart** – For data visualization.
 
 ---
+##project structure
+<img width="598" height="856" alt="image" src="https://github.com/user-attachments/assets/27890f48-d550-4cb9-aaec-4bfac792fce0" />
+
+---
 ##screenshots
 <p align="center">
    <img width="383" height="799" alt="image" src="https://github.com/user-attachments/assets/1a29467e-1d93-472c-bfb4-02205e476342" />
@@ -56,7 +60,11 @@ Built using **Java**, **MVVM Architecture**, and **Material Design**.
 2. **Open the project in Android Studio.**
 3. **Sync the project with Gradle Files.**
 4. **Run the app on a real device or emulator.**
+---
+## work flow
+<img width="1080" height="729" alt="image" src="https://github.com/user-attachments/assets/d0f7ce37-5606-4216-8c61-ffa91d0c1bea" />
 
+---
 
 ## 💡 Future Improvements
 **📈 Export transactions as CSV or PDF**
@@ -73,6 +81,7 @@ Built using **Java**, **MVVM Architecture**, and **Material Design**.
 **📧 Email: mnafe44@gmail.com**
 
 **🐙 GitHub: [MohamedAbdelrahmanMetwally](https://github.com/MohamedAbdelrahmanMetwally)**
+
 
 
 
